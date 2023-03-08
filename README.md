@@ -3,7 +3,7 @@ repositório criado para o curso do Senai
 
 # Programação orientada a objetos
 ## descrição
-Esse READMEfoi criado com o objetivo de por em pratica o que estou aprendendo. No momento sou apenas um estudante nesse mundo extraordinario da tecnoliga. 
+Esse README foi criado com o objetivo de por em pratica o que estou aprendendo. No momento sou apenas um estudante nesse mundo extraordinario da tecnoliga. 
 
 ## Tecnologias utilizadas 
 
